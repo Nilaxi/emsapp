@@ -1,0 +1,23 @@
+/* form{
+    width: 450px;
+    height: 300px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    box-shadow: 2px;
+    text-align:  center;
+    margin-top: 50px;
+
+} */
+h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.btn{
+    width : 100%;
+    text-align: center;
+    
+}
+h6{
+    text-align: end;
+    margin: 5px;
+}
